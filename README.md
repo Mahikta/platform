@@ -35,7 +35,7 @@ The official reference on how to use the Platform. Create surveys, configure dat
 
 ### Platform Developer Documentation
 
-Key pointers on installing and developing on the Platform.
+Key pointers on installing and developing on the Platform. You can look out this document for better understanding.
 
 [Platform Developer Documentation](https://docs.ushahidi.com/platform-developer-documentation/)
 
@@ -49,7 +49,7 @@ Ushahidi OSS Home
 
 ## Contributors ✨
 
-Thanks goes to the wonderful people who [[Contribute](CONTRIBUTING.md)]! See the list of contributors at [all-contributors](docs/contributors-to-ushahidi.md)
+Thanks goes to the wonderful people who [[Contribute](CONTRIBUTING.md)] to complete this project! See the list of contributors at [all-contributors](docs/contributors-to-ushahidi.md)
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ### Backers
